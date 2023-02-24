@@ -3,6 +3,6 @@ My first game developed in java
 Two player ping pong game.
 Used JFrame and JPanel
 
-![image](https://user-images.githubusercontent.com/92288227/221088154-75b49e03-4cd0-40a9-abe6-e4d4d0b8fccc.png)
-![image](https://user-images.githubusercontent.com/92288227/221088356-3be38a47-a667-4a34-91bf-3b3d34d845ec.png)
-![image](https://user-images.githubusercontent.com/92288227/221088475-f97b8736-4032-42cc-b170-a157193873e5.png)
+![image](https://user-images.githubusercontent.com/92288227/221088562-292208e8-4601-46b7-9ac5-c399ce1d4e63.png)![image](https://user-images.githubusercontent.com/92288227/221088632-d2ba9b31-ec5c-45d3-a9e1-99eeed5a981c.png)
+![image](https://user-images.githubusercontent.com/92288227/221088698-3a3e677c-aab9-4031-ab52-cee4c9de8886.png)
+![Uploading image.png…]()
